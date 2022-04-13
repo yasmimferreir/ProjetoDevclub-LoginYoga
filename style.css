@@ -1,0 +1,155 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    background-color: #E5E5E5;
+}
+
+a{
+    text-decoration: none;
+}
+.imgyoga {
+    display: block;
+    margin: 195px auto 122px auto;
+}
+
+input {
+    display: block;
+    width: 321px;
+    height: 46px;
+    background: #F7F7F7;
+    box-shadow: -4px 4px 10px rgb(0 0 00 / 9%);
+    border-radius: 10px;
+    border: none;
+    margin: 0 auto;
+}
+
+input::placeholder {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 15px;
+    color: #969696;
+    padding-left: 19px;
+}
+
+.input-password {
+    margin-top: 21px;
+}
+
+.forgot-password {
+    display: block;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 15px;
+    color: #000;
+    margin: 35px 30px 38px 0;
+    text-align: right;
+}
+
+.btn {
+    display: block;
+    margin: 0 auto;
+    background: #323232;
+    box-shadow: -4px 4px 18px rgb(0, 0, 0 / 9%);
+    border-radius: 10px;
+    width: 133px;
+    height: 46px;
+    border: none;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    color: #fff;
+}
+
+.link-signup {
+    display: block;
+    margin-top: 21px;
+    margin-bottom: 62px;
+    text-align: center;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    color: #969696;
+}
+
+strong {
+    color: #323232;
+}
+
+.or-paragraph {
+    display: block;
+    text-align: center;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 21px;
+
+}
+
+.imgbox{
+    text-align: center;
+    margin: 18px auto 80px auto;
+}
+
+.img-link{
+     margin:0 10px;
+}
+
+
+.img-yoga {
+    position: absolute;
+    width: 311.05px;
+    height: 239px;
+    margin: 145px 51.95px 0 51px;
+    padding: 0 20px 0 0;
+}
+
+.img-groups{
+   position: absolute;
+   width: 64px;
+   height: 10px;
+   left: 175px;
+   top: 485px;
+}
+
+.paragraph{
+    position: absolute;
+    width: 327px;
+    height: 176px;
+    top: 576px;
+    left: 37px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+    color: #000;
+}
+
+.boxbtn{
+    position: absolute;
+    width: 173px;
+    height: 46px;
+    left: 121px;
+    top: 729px;
+    background: #323232;
+    border: 0;
+    border-radius: 12px;
+    box-shadow: -4px 4px 18px rgb(0, 0, 0 / 9%);
+    color: #E5E5E5;
+}
+
+.boxbtn:hover{
+    opacity: 0.7;
+    width: 190px;
+    height: 52px;
+    transition: 0.6s;
+    left: 120px;
+    background-color: #9932CC;
+    color: #fff;
+}
