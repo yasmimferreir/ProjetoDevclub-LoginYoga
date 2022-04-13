@@ -6,7 +6,6 @@
   <br>▪CSS
   <br>▪Aplicaçao para dispositivos móveis📲
  
-   <br>▪Link:
 
 <h3>📌 Prévia das páginas:
   
